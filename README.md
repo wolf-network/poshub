@@ -10,5 +10,6 @@ This Web app is made on Codeigniter V4
    b) openuux1_crm_lead_management.sql
    c) openuux1_crm_finance.sql
    d) openuux1_crm_inventory.sql
-3) Rename .env_sample to .env and .htaccess_sample to .htaccess
-4) Add razorpay key_id and secret in env file
+3) Run Composer install to install all dependencies
+4) Rename .env_sample to .env and .htaccess_sample to .htaccess
+5) Add razorpay key_id and secret in env file
