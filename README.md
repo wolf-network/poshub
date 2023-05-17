@@ -6,7 +6,7 @@ This Web app is made on Codeigniter V4
 # Installation Steps
 
 1) Import database as shown in below squence:
-   a) openuux1_crm_core.sql
+   a) openuux1_crm_core.sql \n
    b) openuux1_crm_lead_management.sql
    c) openuux1_crm_finance.sql
    d) openuux1_crm_inventory.sql
