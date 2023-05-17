@@ -1,0 +1,48 @@
+.dark-mode {}
+
+.dark-mode .content-wrapper,
+.dark-mode .content-wrapper .box,
+.dark-mode .content-wrapper .box .box-header,
+.dark-mode .dropdown-menu {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.dark-mode .content-wrapper .box {
+    box-shadow: 0 0;
+}
+
+.dark-mode .table-striped > tbody > tr:nth-of-type(odd),
+.dark-mode .panel,
+.dark-mode .list-group-item {
+    background-color: #666666;
+}
+
+.dark-mode .btn-default,
+.dark-mode .form-control,
+.dark-mode .form-group input,
+.dark-mode .input-group .input-group-addon {
+    background-color: #666666;
+    color: #ffffff;
+    border-color: #444444;
+}
+
+.dark-mode .box-footer {
+    background-color: #333333;
+    border: 0;
+
+}
+
+.dark-mode .persona i.fab,
+.dark-mode .persona i.fas,
+.dark-mode .influencer-container a {
+    color: #ffffff;
+}
+
+.dark-mode .influencer-filter-table tbody td {
+    background-color: transparent;
+}
+
+.dark-mode .table-hover > tbody > tr:hover {
+    background-color: #000000;
+}
