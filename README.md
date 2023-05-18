@@ -1,6 +1,9 @@
 # poshub
 POS Hub Billing Software
 
+#Try it out on:
+https://www.poshub.wolfnetwork.in
+
 This Web app is made on Codeigniter V4
 
 # Installation Steps
