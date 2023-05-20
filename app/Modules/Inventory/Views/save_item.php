@@ -20,14 +20,14 @@
                     </div>
                     <div class="col-md-4">
                         <div class="form-group">
-                            <label for="BuyingPrice">Buying Price Per Unit</label>
+                            <label for="BuyingPrice">Buying Price Per Unit (Pre Tax) </label>
                             <input type="text" name="BuyingPrice" value="<?php echo set_value('BuyingPrice'); ?>" placeholder="Enter Item Price" class="form-control">
                             <span class="text-danger"><?php echo validation_show_error('BuyingPrice'); ?></span>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="form-group">
-                            <label for="Price">Selling Price Per Unit <span class="text-danger">*</span></label>
+                            <label for="Price">Selling Price Per Unit (Pre Tax) <span class="text-danger">*</span></label>
                             <input type="text" name="Price" value="<?php echo set_value('Price'); ?>" placeholder="Enter Item Price" class="form-control">
                             <span class="text-danger"><?php echo validation_show_error('Price'); ?></span>
                         </div>
